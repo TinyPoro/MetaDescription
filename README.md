@@ -1,6 +1,6 @@
 # MetaDescription
 
-## Làm thế nào để viết các thẻ Metaeta Descriptions trong 1 Thế Giới liên Tục Thay Đổi (AKA Google Giveth, Google Taketh Away)
+## Làm thế nào để viết các thẻ Meta Descriptions trong 1 Thế Giới liên Tục Thay Đổi (AKA Google Giveth, Google Taketh Away)
 
 Quay trở về thời điểm tháng 12 nằm 2017, Google đã có 1 sự thay đổi rất lớn về cách hiển thị các đoạn trích tìm kiếm (snippet), mà qua tìm hiểu của chúng tôi đã phát hiện ra rằng nó hiện thị rất nhiều đoạn trích hơn 300 kí tự. Nhưng vào cuối tuần, dường như họ lại roll back những thay đổi đó ( DannyDanny Sullivan đã phần nào xác nhận điều này trên Twitter vào ngày 14 tháng 5). Bên cạnh câu hỏi trước - Vậy đâu là giới hạn mới cho 1 snippet? - điều này có thể sẽ khiến bạn bối rối không biết phải làm thế nào khi mà luật thì luôn luôn thay đổi. Không ai trong chúng tôi có câu trả lời chính xác cả, nhưng tôiôi sẽ thử trả lời cả 2 câu hỏi dựa trên những gì tôi biết ngay bây giờ.
 
