@@ -23,10 +23,10 @@ Vì vậy, chúng tôi biết rằng những đoạn trích dài hơn cũng vẫ
 
 Nó trông rất khác so với dữ liệu của chúng tôi vào tháng 12 năm ngoài, và tập trung trong khoảng 150-175. Chúng tôi thấy 1 ít đoạn trích hiển thị Google được rút ngắn sau khoảng 300, những chúng đều được làm ngắn bởi các công cụ rút gọn hơn nữa.
 
-## The big picture, part 2
-Obviously, there's a lot happening in that 125–175 character range, so let's zoom in and look at just the middle portion of the frequency distribution, broken up into smaller, 5-character buckets:
+##  Tổng quan vấn đề, phần 2
+Rõ ràng sẽ có rất nhiều thứ xả ra trong khoảng 125-175 kí tự, vật hãy tập trung và nhìn vào khoảng giữa của phân phối xác suất, rồi chia thành các phần nhỏ hơn, mỗi phần 5 kí tự:
 
-We can see pretty clearly that the bulk of cut-offs are happening in the 145–165 character range. Before December, our previous guidelines for meta descriptions were to keep them below 155 characters, so it appears that Google has more-or-less reverted to the old rules.
+Chúng ta có thể thấy rõ ràng là phần lớn rút gọn nằm trong khoảng 145-165 kí tự. Trước tháng 12, định hướng viết meta description của chúng tôi là để chúng trong khoảng dưới 155 kí tự,  do vậy dường như là Google hầu như đã quay về những luật cũ.
 
 Keep in mind that Google uses proportional fonts, so there is no exact character limit. Some people have hypothesized a pixel-width limit, like with title tags, but I've found that more difficult to pin down with multi-line snippets (the situation gets even weirder on mobile results). Practically, it's also difficult to write to a pixel limit. The data suggests that 155 characters is a reasonable approximation.
 
