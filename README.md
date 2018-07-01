@@ -28,40 +28,42 @@ Rõ ràng sẽ có rất nhiều thứ xả ra trong khoảng 125-175 kí tự, 
 
 Chúng ta có thể thấy rõ ràng là phần lớn rút gọn nằm trong khoảng 145-165 kí tự. Trước tháng 12, định hướng viết meta description của chúng tôi là để chúng trong khoảng dưới 155 kí tự,  do vậy dường như là Google hầu như đã quay về những luật cũ.
 
-Keep in mind that Google uses proportional fonts, so there is no exact character limit. Some people have hypothesized a pixel-width limit, like with title tags, but I've found that more difficult to pin down with multi-line snippets (the situation gets even weirder on mobile results). Practically, it's also difficult to write to a pixel limit. The data suggests that 155 characters is a reasonable approximation.
+Hãy nhớ rằng google sử dụng các mức tương đối thôi, vì vậy sẽ không có những giới hạn kí tự cụ thể. 1 vài người giả định về 1 giới hạn độ rộng pixel, như với các tag tiêu đề, nhưng tôi nhận ra rằng sẽ khó khăn để in các đoạn trích nhiều dòng (thậm chí ở mobile thì còn khó khăn hơn). Thực tế thì cũng khó để viết 1 giới hạn pixel. Do vậy gợi ý dữ liệu 155 kí tự là xấp xỉ hợp lý.
 
 ## To the Wayback Machine... ?!
-Should we just go back to a 155 character cut-off? If you've already written longer meta descriptions, should you scrap that work and start over? The simple truth is that none of us know what's going to happen next week. The way I see it, we have four viable options:
+Chúng ta có nên rút gọn về 155 kí tự hay không? Nếu bạn đã viết những đoạn meta description dài hơn, bạn có nên bỏ nó và bắt đầu lại? Sự thật là không ai trong chúng ta có thể biết cái gì sẽ xảy ra tuần tới. Theo góc nhìn của tôi, có 4 tùy chọn có vẻ khả thi:
 
-#### (1) Let Google handle it
-Some sites don't have meta descriptions at all. Wikipedia happens to be one of them. Now, Google's understanding of Wikipedia's content is much deeper than most sites (thanks, in part, to Wikidata), but many sites do fare fine without the tag. If your choice is to either write bad, repetitive tags or leave them blank, then I'd say leave them blank and let Google sort it out.
+#### (1) Hãy đễ Google giải quyết nó
+1 vài trang hoàn toàn không có meta description. Wikipedia là 1 trong số đó. Hiện giờ Google hiểu nội dụng của Wikipedia nhiều hơn hầu hết các trang khác ( nhờ 1 phần Wikidata), nhưng nhiều trang vẫn ổn mà không có tag. Nếu lựa chọn của bạn là viết các tag dở tệ, lặp đi lặp lại hay là để trống, thì tôi nghĩ nên để trống và để Google sắp xếp chúng
 
-#### (2) Let the ... fall where it may
-You could just write to the length you think is ideal for any given page (within reason), and if the snippets get cut off, don't worry about it. Maybe the ellipsis (...) adds intrigue. I'm half-joking, but the reality is that a cut-off isn't the kiss of death. A good description should entice people to want to read more.
+#### (2) Cứ để ... xuất hiện khi cần thiết
+Bạn có thể chỉ cần viết đủ độ dài mà bạn nghĩ là lý tưởng cho bất kỳ trang nào (miễn là trong giới hạn), và nếu đoạn trích bị cắt ngắn, đừng lo lắng. Có thể dấu chẩm lửng (...)  được thêm vào vì lí do gì đó thôi. Đùa 1 chút, nhưng sự thật là việc rút gọn không phải là 1 sự thất bại. 1 mô tả tốt nên khiến mọi người muốn đọc thêm.
 
-#### (3) Chop everything at 155 characters
-You could go back and mercilessly hack all of your hard work back to 155 characters. I think this is generally going to be time badly spent and may result in even worse search snippets. If you want to rewrite shorter Meta Descriptions for your most important pages, that's perfectly reasonable, but keep in mind that some results are still showing longer snippets and this situation will continue to evolve.
+#### (3) Tách mọi thứ về 155 kí tự
+Bạn có thể trở về mà chuyển mọi thứ của bạn về 155 kí tự. Tôi nghĩ rằng nhìn chung đây sẽ là  1 khoảng tời gian tồi tệ và kết quả có thể thậm chí còn là những đoạn trích dẫn tìm kiếm tệ hơn. Nếu bạn muốn viết Meta Descriptions ngắn hơn cho hầu hết những trang quan trọng của bạn, nó cực kỳ hợp lý, nhưng hãy nhớ rằng 1 vài kết quả vẫn sẽ hiển thị những đoạn trích dài hơn và những trường hợp này cẩn được tiếp tục cải thiện
 
-#### (4) Write length-adaptive descriptions
-Is it possible to write a description that works well at both lengths? I think it is, with some care and planning. I wouldn't necessarily recommend this for every single page, but maybe there is a way to have our cake and eat at least half of it, too...
+#### (4) Viết các đoạn mô tả có chiều dài thích hợp.
+Liệu chúng ta có thể viết 1 đoạn mô tả thể hiện tốt tại nhiều độ dài không?Tôi nghĩ hoàn toàn có thể, chỉ cần để ý và lên kế hoạch 1 chút. Tôi không gợi ý điều này cho mỗi trang, nhưng có thể có 1 cách để có chiếc bánh của chúng ta và chỉ ăn 1 nửa chúng thôi.
 
-## The 150/150 approach
-I've been a bit obsessed with the "inverted pyramid" style of writing lately. This is a journalistic style where you start with the lead or summary of your main point and then break that down into the details, data, and context. While this approach is well suited to the web, its origins come from layout limitations in print. You never knew when your editor would have to cut your article short to fit the available space, so the inverted pyramid style helped guarantee that the most important part would usually be spared.
+## hướng tới 150/150
+Tôi đã bị ảm ảnh bởi cách viết "kim tự tháp ngược" gần đây. Đây là 1 cách viết mà bạn bắt đầu bằng việc dẫn dắt hay tổng kết các ý chính rồi sau đó đi sâu vào chi tiết, dữ liệu và hoàn cảnh. Khi mà mục tiêu này phù hợp với trang web, bản chất của nó là sự giới hạn bố cục khi in ra. Bạn không bao giờ biết khi nào trình soạn thảo sẽ cắt ngắn tiêu đề của bạn để khít với khoảng trống thích hợp, vì vậy phong cách kim tự tháp ngược giúp đảm bảo phần quan trọng nhất sẽ luôn không bị cắt.
 
-What if we took this approach to meta descriptions? In other words, why not write a 150-character "lead" that summarizes the page, and then add 150 characters of useful but less essential detail (when adding that detail makes sense and provides value)? The 150/150 isn't a magic number — you could even do 100/100 or 100/200. The key is to make sure that the text before the cut can stand on its own.
+Sẽ thế nào nếu chúng ta mang cách tiếp cận này cho meta descriptions? Nói cách khác, tại sao không viết 1 cụm 150 kí tự "dẫn dắt" để tóm tắt trang, và thêm 150 kí tự sau cần thiết nhưng ít chi tiết quan trọng hơn ( khi thêm các chi tiết đó có ý nghĩa và cung cấp giá trị)? Quy tắc 150/150 không phải 1 con số ma thuật nào - bạn có thể thậm chí thực hiện 100/100 hay 100/200. Quan trọng phải đảm bảo rằng chứ phía trước đoạn cắt có thể đứng độc lập.
 
-Think of it a bit like an ad, with two separate lines of copy. Let's take this blog post:
+Nghĩ về nó 1 chút như 1 đoạn viết tắt, với 2 dòng sao chép riêng biệt. Lấy ví dụ với bài post blog này:
 
-#### Line 1 (145 chars.)
-In December, we reported that Google increased search snippets to over 300 characters. Unfortunately, it looks like the rules have changed again.
+#### Dòng 1 (145 chars.)
+Vào tháng 12, chúng tôi đã báo cáo rằng Google tăng các đoạn trích dẫn tìm kiếm lên hơn 300 kí tự. Không may, dường như luật lại thay đổi 1 lần nữa.
 
-#### Line 2 (122 chars.)
-According to our new research (May 2018), the limit is back to 155-160 characters. How should SEOs adapt to these changes?
-Line 1 has the short version of the story and hopefully lets searchers know they're heading down the right path. Line 2 dives into a few details and gives away just enough data (hopefully) to be intriguing. If Google uses the longer description, it should work nicely, but if they don't, we shouldn't be any worse for wear.
+#### Dòng 2 (122 chars.)
 
-## Should you even bother?
-Is this worth the effort? I think writing effective descriptions that engage search visitors is still very important, in theory (and that this indirectly impacts even ranking), but you may find you can write perfectly well within a 155-character limit. We also have to face the reality that Google seems to be rewriting more and more descriptions. This is difficult to measure, as many rewrites are partial, but there's no guarantee that your meta description will be used as written.
+Dựa theo nghiên cứu mới của chúng tôi gần đây ( tháng 5 2018), giới hạn lại trở về 155-160 kí tự. Vậy những người làm SEO phải thích ứng thế nào với những thay đổi này?
 
-Is there any way to tell when a longer snippet (>300 characters) will still be used? Some SEOs have hypothesized a link between longer snippets and featured snippets at the top of the page. In our overall data set, 13.3% of all SERPs had featured snippets. If we look at just SERPs with a maximum display snippet length of 160 characters (i.e. no result was longer than 160 characters), the featured snippet occurrence was 11.4%. If we look at SERPs with at least one display snippet over 300 characters, featured snippets occurred at a rate of 41.8%. While that second data set is fairly small, it is a striking difference. There does seem to be some connection between Google's ability to extract answers in the form of featured snippets and their ability or willingness to display longer search snippets. In many cases, though, these longer snippets are rewrites or taken directly from the page, so even then there's no guarantee that Google will use your longer meta description.
+Dòng 1 là 1 phiên bản ngắn hơn của câu chuyện và hi vọng những người tìm kiếm biết rằng họ đang tìm thấy đúng nơi họ cần. Dòng 2 đưa thêm 1 vài chi tiết và đưa ra vừa dủ dữ liệu (hi vọng là thế) để hấp dẫn hơ. Nếu Google sử dụng đoạn mô tả dài hơn, sẽ rất tốt, nhưng nếu không, thì cũng sẽ không tệ hơn là mấy.
 
-For now, it appears that the 155-character guideline is back in play. If you've already increased some of your meta descriptions, I don't think there's any reason to panic. It might make sense to rewrite overly-long descriptions on critical pages, especially if the cut-offs are leading to bad results. If you do choose to rewrite some of them, consider the 150/150 approach — at least then you'll be a bit more future-proofed.
+## bạn có nên cảm thấy khó chịu?
+Những nỗ lực này có đáng không? tôi nghĩ rằng việc viết 1 đoạn mô tả hiệu quả cho khách hàng tìm kiếm vẫn rất quan trọng, theo lý thuyết à vậy ( và điều này gián tiếp ảnh hưởng đến thứ hạng nữa), những bạn có thể thấy rằng bạn có thể viết cực tốt trong giới hạn 155 kí tự. Chúng tôi cũng đã đối mặt với thực tế là Google dường như đang ngày càng viết lại nhiều mô tả hơn. Điều này rất khó để đo đếm, vì đa số chỉ 1 phần được viết lại thôi, nhưng không có gì đảm bảo meta description sẽ không được sử dụng để viết lại.
+
+Có cách nào để biết khi 1 đoạn trích dài hơn (>300 kí tự) sẽ được sử dụng không? 1 vài nhà làm SEO đã giả định 1 đường dẫn trong các đoạn trích dài hơn và các đoạn trích tính năng tại đầu trang. Trong toàn bộ tập dữ liệu của chúng tôi, 13.3% các SERPs có các đoạn trích tính năng. Nếu chúng tôi chỉ nhìn vào các SERP với độ dài đoạn trích tối đa 160 kí tự ( ví dụ không có kết quả nào lớn hơn 160 kí tự), các đoạn trích tính năng  xuất hiện khoảng 11.4%. Nếu chúng tôi xem các SERP với ít nhất 1 đoạn trích hiển thị trên 300 kí tự, các đoạn trích tính năng xuất hiện với tỉ lệ 41.8%. Khi tập dữ liệu thứ 2 nhỏ hơn 1 chút, lại có sự khác biệt nổi bật. Dường như không có sự liên hệ nào giữa khả năng trích xuất các câu trả lời trong form của các trích dẫn tính năng và khả năng sẵn sàng hiển thị các đoạn trích dài của Google. Trong nhiều trường hợp, mặc dù các đoạn trích dài được viết lại  hay lấy trực tiế từ trang đi nữa, không có gì đảm bảo sau đó google sẽ sử dụng các đoạn meta description dài của bản cả.
+
+Bấy giờ, dường như là viết nội dung trong 155 kí tự là phù hợp. Nếu bạn đã tăng độ dài 1 vài  meta descriptions của bạn, tôi không nghĩ có bất cứ lý do nào để phải hoảng loạn cả. Có thể sẽ có vấn đề khi viết lại những đoạn mô tả quá dài trên các trang quan trọng, đặc biệt nếu đoạn cắt ngắn dấn đến các kết quả không tốt. Nếu bạn lựa chọn viết lại 1 vài đoạn mô tả, cân nhắc luật 150/150 - ít nhất sau đó bạn sẽ có 1 tương lai ổn hơn .  
