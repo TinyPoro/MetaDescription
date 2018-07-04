@@ -12,7 +12,7 @@ Có thể nói rằng, suốt toàn bộ tập dữ liệu, độ dài tối thi
 
 Marine Corps Community Services có thể là 1 tổ chức tuyệt vời, nhưng tôi rất xin lỗi phải thông báo rằng thẻ meta description của họ, sự thật là, 'apple' (mà tôi nghĩ rằng chính Google đã tự thêm đoạn này vào). Đây là 1 đoạn trích cho việc tìm kiểm của cửa h "Youngkers": .
 
-Đặt trong những những bối rối của họ, tôi nghĩ rằng chúng ta có thể đều đồng ý rằng "BER META TAG1" là không tối ưu. Trường hợp này nếu có cũng chỉ dạy cho bạn những thứ không nên làm mà thôi. Vậy còn chiều ngược lại thì sao? Đây là đoạn trích với 386 kí tự, khi tìm kiếm từ khóa "non-compete agreement":
+Bnhững những nhầm lẫn về thương hiệu của họ, tôi nghĩ rằng chúng ta có thể đều đồng ý rằng "BER META TAG1" là không tối ưu. Trường hợp này nếu có cũng chỉ dạy cho bạn những thứ không nên làm mà thôi. Vậy còn chiều ngược lại thì sao? Đây là đoạn trích với 386 kí tự, khi tìm kiếm từ khóa "non-compete agreement":
 
 Để ý cụm từ "Jump to Excptions" và các liên kết ở đầu. Chúng được Google thêm vào, vì vậy rất khó để nói những thứ nào sẽ ảnh hưởng đến bộ đếm số lượng các kí tự. Đây là 1 ví dụ mà không tính các phần bổ sung thì có đúng 370 kí tự, khi tìm kiếm từ khóa "the Hunger Games books":
 
