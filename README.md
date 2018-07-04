@@ -10,7 +10,7 @@ Tôi đã lấy về tất cả các đoạn trích có thể tìm kiếm đư�
 
 Có thể nói rằng, suốt toàn bộ tập dữ liệu, độ dài tối thiểu là 6 kí tự, độ dài tối đa là 386, và độ dài trung bình là 159. Điều này không được hữu dụng lắm, vì 2 lý do. Đầu tiên, việc khuyên bạn viết thẻ meta description trong khoảng 6*386 kí tự không thực sự là 1 lời khuyên có ích. Thứ hai,  chúng tôi đang giải quyết nhiều vấn đề cực điểm. Ví dụ, đây là 1 đoạn trích trong trang tìm kiếm từ khóa "USMC".
 
-Marine Corps Community Services có thể là 1 tổ chức tuyệt vời, nhưng tôi rất xin lỗi phải thông báo rằng thẻ meta description của họ, sự thật là, 'apple' (mà tôi nghĩ rằng chính Google đã tự thêm đoạn này vào). Đây là 1 đoạn trích cho việc tìm kiểm của cửa hiệu chúng cứ "Youngkers": .
+Marine Corps Community Services có thể là 1 tổ chức tuyệt vời, nhưng tôi rất xin lỗi phải thông báo rằng thẻ meta description của họ, sự thật là, 'apple' (mà tôi nghĩ rằng chính Google đã tự thêm đoạn này vào). Đây là 1 đoạn trích cho việc tìm kiểm của cửa h "Youngkers": .
 
 Đặt trong những những bối rối của họ, tôi nghĩ rằng chúng ta có thể đều đồng ý rằng "BER META TAG1" là không tối ưu. Trường hợp này nếu có cũng chỉ dạy cho bạn những thứ không nên làm mà thôi. Vậy còn chiều ngược lại thì sao? Đây là đoạn trích với 386 kí tự, khi tìm kiếm từ khóa "non-compete agreement":
 
